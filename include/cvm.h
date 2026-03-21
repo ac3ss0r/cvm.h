@@ -13,7 +13,7 @@
     \|_______|\|__|/       \|__|     \|__|
 
 CVM is a demo VM (Virtual machine) based on x86-64 CPU architecture.
-Github: https://github.com/ac3s0r/cvm.h
+Github: https://github.com/ac3ss0r/cvm.h
 
 */
 
